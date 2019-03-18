@@ -1,1 +1,1 @@
-Exercises from Codecademy
+Exercises from Codecademy and hackerrank
