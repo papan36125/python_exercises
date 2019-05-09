@@ -1,0 +1,6 @@
+color = input("Enter a color: ")
+plural_noun = input("Enter a plural noun: ")
+celebrity = input("Enter the name of a celebrity: ")
+print('Roses are {}'.format(color))
+print("{} are blue".format(plural_noun))
+print("I love {}".format(celebrity))
